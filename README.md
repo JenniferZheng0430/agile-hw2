@@ -1,2 +1,3 @@
-# agile-hw2
-This repository is made for class Agile Software Development HW2: Git Practice
+# Agile Software Development Practice Assignment 2: Git Practice
+1. Article I found: https://medium.com/karachain/why-i-am-building-a-blockchain-in-go-6395a60b24dd
+2. This article gives a good introduction about GoLang and the use of GoLang on building Blockchain specifically. I find this very interesting because I've been thinking to learn GoLang for a while because its more efficient performance, simpler syntax, as well as that the trends of programmers starting programming in GoLang become more popular these days. However, after reviewing this article, I realize the power of GoLang specifically in the field of Blockchain development and I think I will do more extensive research later. 
